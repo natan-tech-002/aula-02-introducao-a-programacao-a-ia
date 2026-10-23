@@ -40,7 +40,7 @@ Alguns arquivos têm espaços e o prefixo `#` no nome; por isso, mantenha as asp
 
 - Padronizar os nomes dos arquivos.
 - Tratar entradas inválidas e casos como divisão por zero.
-- Reunir as operações em uma calculadora com menu.
+- Comparar estes exercícios individuais com a [calculadora de terminal do repositório Aula 13](https://github.com/natan-tech-002/Aula-13---Python-UniFAJ/tree/main/Exercicio_Calculadora).
 
 ---
 
